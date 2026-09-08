@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Speech bubble shadow/base centered within safe zone (30-78) -->
+    <path
+        android:pathData="M34,32 C34,28.7 36.7,26 40,26 L68,26 C71.3,26 74,28.7 74,32 L74,58 C74,61.3 71.3,64 68,64 L52,64 L42,74 L42,64 L40,64 C36.7,64 34,61.3 34,58 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Microphone body inside speech bubble in vibrant coral/indigo -->
+    <path
+        android:pathData="M54,34 C51.8,34 50,35.8 50,38 L50,47 C50,49.2 51.8,51 54,51 C56.2,51 58,49.2 58,47 L58,38 C58,35.8 56.2,34 54,34 Z"
+        android:fillColor="#4F46E5" />
+
+    <!-- Microphone cradle & stand -->
+    <path
+        android:pathData="M46.5,44 C46.5,48.1 49.9,51.5 54,51.5 C58.1,51.5 61.5,48.1 61.5,44 L63.5,44 C63.5,48.7 60,52.6 55.5,53.3 L55.5,56 L52.5,56 L52.5,53.3 C48,52.6 44.5,48.7 44.5,44 Z"
+        android:fillColor="#4F46E5" />
+
+    <!-- Sound wave arcs on right side in warm coral -->
+    <path
+        android:pathData="M78,40 C80.5,43.2 82,47 82,51 C82,55 80.5,58.8 78,62"
+        android:strokeWidth="3.2"
+        android:strokeColor="#FF6B6B"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M83,35 C87,39.5 89,45 89,51 C89,57 87,62.5 83,67"
+        android:strokeWidth="3.2"
+        android:strokeColor="#FFA07A"
+        android:strokeLineCap="round" />
+</vector>

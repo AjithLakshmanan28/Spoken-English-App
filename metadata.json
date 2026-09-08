@@ -1,0 +1,6 @@
+{
+  "name": "Spoken English",
+  "description": "Practice conversational English with interactive speaking roleplays, instant speech feedback, and pronunciation drills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
